@@ -1,0 +1,5 @@
+{"visual":{"name":"winTrendGrpMngRHTMLVisual","displayName":"winTrendGrpMngRHTMLVisual",
+"guid":"winTrendGrpMngRHTMLVisual6CED1E3C85A9475CB2D21956257F9DBD","visualClassName":"Visual","version":"1.0.0",
+"description":"win forecast monthly trend by group and director","supportUrl":"https://github.com/leilaetaatiprogram/R-Visual-Chart--Facet-Chart","gitHubUrl":"https://github.com/leilaetaatiprogram/R-Visual-Chart--Facet-Chart"},"apiVersion":"2.6.0","author":{"name":"Mia Eden","email":"mia.eden@hp.com"},
+"assets":{"icon":"assets/icon.png"},"externalJS":null,"style":"style/visual.less",
+"capabilities":"capabilities.json","dependencies":"dependencies.json","stringResources":[]}
